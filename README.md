@@ -3,7 +3,13 @@
 
 ## Description
 
-This project is an implementation of a Formula One style racing game enhanced with a reinforcement learning agent. The agent uses policy gradient methods to learn how to play the game, making decisions based on the game's state to perform actions like moving left, right, or staying in the same lane. The goal is to avoid obstacles and walls, with the game's difficulty increasing as the car's speed increases.
+This project is an implementation of a Formula One-style racing game enhanced with a reinforcement learning agent. The agent uses policy gradient methods to learn how to play the game, making decisions based on the game's state to perform actions like moving left, right, or staying in the same lane. The goal is to avoid obstacles and walls, with the game's difficulty increasing as the car's speed increases.
+
+## Citation
+1. The reference paper can be found [here](https://arxiv.org/pdf/1704.06440.pdf)
+2. The initial game played manually can be found [here](https://www.sourcecodester.com/python/14694/f1-racer-game-using-pygame-source-code.html)
+
+
 
 ## Installation
 
